@@ -9,7 +9,7 @@ Rede social atualização agora com compatibilidade para celular(antes não tinh
 
 ## Acesso ao Projeto
 
-[Link:]
+[Link:https://kauekitow.github.io/Redes-Sociais/]
 
 ## Autor
 
