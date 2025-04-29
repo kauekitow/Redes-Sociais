@@ -1,0 +1,13 @@
+@media screen and (max-width: 600px){
+    .perfil{
+        margin: 0;
+        border-radius: 0;
+        width: 100%;
+        align-items: center;
+    }
+    a{
+        margin: 35px 50px;
+        padding: 20px;
+        font-size: 25px;
+    }
+}
